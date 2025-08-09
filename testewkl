@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>تجربة</title>
+</head>
+<body>
+  <h1>مرحباً</h1>
+  <p>ده نص ثابت.</p>
+
+  <script>
+    document.write("<p>ده جزء JavaScript ظهر ديناميكياً</p>");
+  </script>
+</body>
+</html>
